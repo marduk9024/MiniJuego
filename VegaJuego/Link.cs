@@ -58,7 +58,7 @@ namespace VegaJuego
             {
                 this.Direccion = "IZQUIERDA";
                 this.Caja.BackgroundImage = global::VegaJuego.Properties.Resources.izquierda;
-                this.Caja.Location = new Point(this.Caja.Location.X - 19, this.Caja.Location.Y);
+                this.Caja.Location = new Point(this.Caja.Location.X - 10, this.Caja.Location.Y);
             }
         }
     }

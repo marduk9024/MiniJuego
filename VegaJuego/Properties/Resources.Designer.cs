@@ -223,6 +223,16 @@ namespace VegaJuego.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap salud1 {
+            get {
+                object obj = ResourceManager.GetObject("salud1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap ZeldaLogo {
             get {
                 object obj = ResourceManager.GetObject("ZeldaLogo", resourceCulture);
