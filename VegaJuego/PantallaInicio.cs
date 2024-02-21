@@ -31,7 +31,7 @@ namespace VegaJuego
         {
             this.Hide();
             Level1 level1 = new Level1(checkSonido);
-            Level1.Show();
+            level1.Show();
         }
     }
 }
